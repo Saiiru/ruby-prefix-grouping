@@ -2,7 +2,7 @@
 
 **Objetivo:** Desafio de agrupar palavras a partir de prefixos comuns de comprimento configurável.
 
-**Estado:** Enunciado disponível; nenhuma implementação ou teste identificado.
+**Estado:** Implementação e suíte de testes manuais existentes, executadas com Ruby 3.4.10.
 
 **Documentação técnica, origem e próximos passos:** [docs/PROJECT_BRIEF.md](docs/PROJECT_BRIEF.md)
 
@@ -154,3 +154,10 @@ word[0, n].downcase
    * comprimento mínimo (`n`)
 3. Agrupe no Hash
 4. Retorne apenas os valores do Hash
+
+
+## Verificação do código em 12/11/2026
+
+Ruby 3.4.10 · ruby challenge.rb: todos os casos do arquivo passaram
+
+**Limitações:** Código já existia; documentação anterior tratava a solução como ausente por engano.
