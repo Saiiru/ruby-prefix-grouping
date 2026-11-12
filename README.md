@@ -1,3 +1,15 @@
+# Prefix Grouping Challenge — Ruby
+
+**Objetivo:** Desafio de agrupar palavras a partir de prefixos comuns de comprimento configurável.
+
+**Estado:** Enunciado disponível; nenhuma implementação ou teste identificado.
+
+**Documentação técnica, origem e próximos passos:** [docs/PROJECT_BRIEF.md](docs/PROJECT_BRIEF.md)
+
+---
+
+## Material original preservado
+
 # 🧩 Agrupar Palavras por Prefixo Comum
 
 ## 📌 Descrição
