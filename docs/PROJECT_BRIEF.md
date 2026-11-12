@@ -5,7 +5,7 @@
 **Repositório atual:** https://github.com/Saiiru/ruby-prefix-grouping
 **Nome anterior:** `sofi-test`
 **Tecnologias observadas:** Ruby · Strings
-**Estado verificado por inspeção:** Enunciado disponível; nenhuma implementação ou teste identificado.
+**Estado verificado por inspeção:** Solução de agrupamento e testes manuais presentes no arquivo challenge.rb.
 
 ## Problema e objetivo
 
@@ -15,7 +15,7 @@ Este é um estudo/experimento de engenharia de software; não é declarado como 
 
 ## O que existe atualmente
 
-Enunciado disponível; nenhuma implementação ou teste identificado. Os arquivos originais, licenças, histórico e eventuais instruções de instalação permanecem no repositório. Esta curadoria não executou todas as dependências nem comprovou operação funcional. Para executar, use as instruções originais do README se disponíveis; quando ausentes, a preparação do ambiente é uma tarefa pendente, não um comando inventado.
+Solução de agrupamento e testes manuais presentes no arquivo challenge.rb. Os arquivos originais, licenças, histórico e eventuais instruções de instalação permanecem no repositório. Esta curadoria não executou todas as dependências nem comprovou operação funcional. Para executar, use as instruções originais do README se disponíveis; quando ausentes, a preparação do ambiente é uma tarefa pendente, não um comando inventado.
 
 ## Projeto, autoria e referências
 
@@ -35,3 +35,14 @@ Enunciado de desafio de terceiro; não atribuir solução inexistente. Créditos
 **Ainda não é:** sistema integrado à KORA, serviço em produção ou prova de maturidade sem testes.
 
 [Voltar ao portfólio SAIRU/BLACKSITE](https://saiiru.github.io/#projetos-independentes)
+
+
+## Verificação de funcionamento — 12/11/2026
+
+**Estado confirmado:** Solução Ruby existente e testada
+
+**Evidência:** Ruby 3.4.10 · ruby challenge.rb: todos os casos do arquivo passaram
+
+**Limites e bloqueios:** Código já existia; documentação anterior tratava a solução como ausente por engano.
+
+Esta validação não implica integração à KORA nem certificação de produção. Não alterar histórico, licença e autoria dos tutoriais.
